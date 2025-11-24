@@ -21,6 +21,6 @@ It includes:
 ✔️ Demonstrated student-wise and exam-wise insights
 
 ## 👤 Author
-* Md. Zubayer Hasan*
-Junior BI & Data Analyst
+Md. Zubayer Hasan <br>
+Junior BI & Data Analyst <br>
 📧 zubayerhasan12345@gmail.com
